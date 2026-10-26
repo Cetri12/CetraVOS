@@ -1,2 +1,2 @@
-# CetraShell
-CetraShell is a small virtual OS written in python.
+# CetraVOS
+CetraVOS is a small virtual OS written in python.
